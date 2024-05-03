@@ -1,0 +1,5 @@
+{
+  "alphasense": ["/dev/ttyACM0","/dev/ttyACM1","/dev/ttyACM2"],
+  "sensirion": ["/dev/ttyUSB0","/dev/ttyUSB1","/dev/ttyUSB2"],
+  "PMS": ["/dev/ttyUSB3","/dev/ttyUSB4","/dev/ttyUSB5"]
+}

@@ -1,0 +1,7 @@
+Adafruit_Blinka==8.24.0
+adafruit_circuitpython_pm25==2.1.15
+board==1.0
+paho_mqtt==1.6.1
+py_opc_ng==0.0.5
+pyserial==3.5
+pyusbiss==0.2.2
